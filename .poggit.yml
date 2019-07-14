@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/TheBestGuy38/TESTFFS
+branches:
+- master
+projects:
+  TESTFFS:
+    path: ""
+...
